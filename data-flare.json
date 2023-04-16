@@ -5,11 +5,12 @@
    "name": "ابو الوليد سليمان",
    "children": [
     {
-     "name": "cluster",
+     "name": "حمد",
      "children": [
-      {"name": "حمد", "size": 3938},
-      {"name": "حمود", "size": 3812},
-     
+      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "CommunityStructure", "size": 3812},
+      {"name": "HierarchicalCluster", "size": 6714},
+      {"name": "MergeEdge", "size": 743}
      ]
     },
     {
