@@ -7,7 +7,36 @@
     {
      "name": "محمد",
      "children": [
-      {"name": "حمد", "size": 3938}
+      {
+     "name": "حمد"
+     "children": [
+     {
+     "name": "حسين"
+     "children": [
+     {
+     "name": "علي"
+     "children": [
+     {
+     "name": "محمد"
+     "children": [
+     {
+     "name": "فارس"
+     "children": [
+     {
+     "name": "زبن"
+     "children": [
+     ]
+     }
+     ]
+     }
+     ]
+     }
+     ]
+     }
+     ]
+     }
+     ]
+     }
      ]
     },
     {
